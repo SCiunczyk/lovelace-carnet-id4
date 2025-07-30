@@ -92,3 +92,5 @@ cards:
     image: local/carnet/id4silver_light_off.png
     type: picture-elements
 ```
+
+<img width="1026" height="582" alt="obraz" src="https://github.com/user-attachments/assets/535fab14-0cfb-4e47-92cb-46e5595a4407" />
